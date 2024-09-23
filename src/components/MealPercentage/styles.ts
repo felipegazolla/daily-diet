@@ -15,8 +15,8 @@ export const Arrow = styled(ArrowUpRight).attrs(({ theme }) => ({
 
 export const TouchArea = styled.TouchableOpacity`
   position: absolute;
-  right: 4;
-  top: 4;
+  right: 4px;
+  top: 4px;
 `
 
 export const Title = styled.Text`
