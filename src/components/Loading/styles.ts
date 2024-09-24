@@ -8,9 +8,9 @@ export const Container = styled.View`
   background-color: ${({ theme }) => theme.COLORS.GRAY_7};
 `
 
-export const LoadIndicator = styled.ActivityIndicator.attrs(({theme})=>({
+export const LoadIndicator = styled.ActivityIndicator.attrs(({ theme }) => ({
   color: theme.COLORS.GREEN_DARK,
-  size: 'large'
+  size: 'large',
 }))`
 
 `
