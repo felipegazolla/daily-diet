@@ -1,4 +1,3 @@
-import { TouchableOpacity } from 'react-native'
 import { Arrow, Container, SubTitle, Title, TouchArea } from './styles'
 
 type Props = {
